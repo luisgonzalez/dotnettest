@@ -1,0 +1,3 @@
+dotnettest/bin/*
+dotnettest/obj/*
+packages/*
